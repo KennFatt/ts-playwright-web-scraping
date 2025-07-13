@@ -1,0 +1,17 @@
+{
+  "name": "ts-template",
+  "version": "0.0.1",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node ./dist"
+  },
+  "keywords": [],
+  "author": "Kennan Fattah <kennfatt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "typescript": "^5.0.2"
+  }
+}
